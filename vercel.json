@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/West Ventures Agent Kit.html"
+    }
+  ]
+}
